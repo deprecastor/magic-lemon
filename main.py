@@ -64,7 +64,7 @@ def main():
     # display is 240 x 240
     #tft.fill_circle(120, 120, 120, bg)
     #doimg("zitrone1.jpg")
-    tft.jpg("/zitrone1.jpg",0,0)
+    tft.jpg("lemon.jpg",0,0)
     mv = [] # ringpuffer
     answers = (
         "Ja", "Nein", "Vielleicht", "Warum?", "Argh!", "Wegen v=0"
