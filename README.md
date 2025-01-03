@@ -1,5 +1,5 @@
 # magic-lemon
-A little project with lemos and ESP32
+A little project with lemons and ESP32
 
 ## Hardware
  - [ESP32-S3-Nano](https://www.waveshare.com/wiki/ESP32-S3-Nano)
