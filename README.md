@@ -50,3 +50,7 @@ Or just use your favorite IDE.
  - Gyro-lib from https://github.com/kriddaw/L3G4200D
  - lemon.jpg sliced from [Abhijit Tembhekar's Picture](https://commons.wikimedia.org/wiki/File:Lemons_on_white.jpg) CC-BY 2.0
 
+
+## Flow3r Badge
+
+There is also a [port](https://git.flow3r.garden/InK350/l3mon) for the [flow3r](https://flow3r.garden/) badge.
